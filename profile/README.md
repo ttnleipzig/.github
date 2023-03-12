@@ -1,5 +1,7 @@
 # TTN Leipzig
 
+![Leipzig Panorama](./panorama.png)
+
 IoT is our passion. We love to build things and connect them to the Internet. We are a community of people who are interested in the Internet of Things and want to build a network of connected devices in Leipzig. We are a part of the global LoRaWAN network, which is a low power wide area network (LPWAN) designed to wirelessly connect battery operated “things” to the Internet in a regional, national or global network.
 
 Our mission is to provide the entire Leipzig with Internet of Things data connectivity by crowdsourcing the network by its citizens and local companies. We are happy to have you join the community. Contact the core team and help us unleash the Internet of Things in Leipzig.
