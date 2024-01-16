@@ -2,15 +2,17 @@
 
 ![Leipzig Panorama](./profile/panorama.png)
 
-IoT is our passion. We love to build things and connect them to the Internet. We are a community of people who are interested in the Internet of Things and want to build a network of connected devices in Leipzig. We are a part of the global LoRaWAN network, which is a low power wide area network (LPWAN) designed to wirelessly connect battery operated “things” to the Internet in a regional, national or global network.
+> IoT is our passion. We love to build things and connect them to the Internet. We are a community of people who are interested in the Internet of Things and want to build a network of connected devices in Leipzig. We are a part of the global LoRaWAN network, which is a low power wide area network (LPWAN) designed to wirelessly connect battery operated “things” to the Internet in a regional, national or global network.
 
-## 📺 Latest YouTube Videos
+## 👩‍💻 Current publications
+
+### 📺 YouTube
 
 <!-- YOUTUBE:START -->
 - [Arduino Projekt Booster](https://www.youtube.com/watch?v=V0zbww-wsuQ)
 <!-- YOUTUBE:END -->
 
-### 📖 TTN Blog Posts
+#### 📖 TTN blog posts
 
 <!-- TTN:START -->
 - [#013 Bastelrunde - Arduino über eine Webseite installieren und Konfigurieren](https://www.thethingsnetwork.org/community/leipzig/post/013-bastelrunde-arduino-%C3%BCber-eine-webseite-installieren-und-konfigurieren)
