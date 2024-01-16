@@ -25,8 +25,6 @@
 http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.thethingsnetwork.org%2Fcommunity%2Fleipzig%2Fposts&in_id_or_class=widget-card-story&max=5&order=document&guid=0
 -->
 
----
-
 ## 🎯 Our Mission
 
 Our mission is to provide the entire Leipzig with Internet of Things data connectivity by crowdsourcing the network by its citizens and local companies. We are happy to have you join the community. Contact the core team and help us unleash the Internet of Things in Leipzig.
