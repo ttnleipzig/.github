@@ -12,6 +12,11 @@ IoT is our passion. We love to build things and connect them to the Internet. We
 ### 📖 TTN Blog Posts
 
 <!-- TTN:START -->
+- [#013 Bastelrunde - Arduino über eine Webseite installieren und Konfigurieren](https://www.thethingsnetwork.org/community/leipzig/post/013-bastelrunde-arduino-%C3%BCber-eine-webseite-installieren-und-konfigurieren)
+- [#012 Bastelrunde - GitHub Actions zur automatischen Erstellung von Binaries](https://www.thethingsnetwork.org/community/leipzig/post/012-bastelrunde-github-actions-zur-automatischen-erstellung-von-binaries)
+- [#011 Bastelrunde - Refactoring bis der Code glänzt](https://www.thethingsnetwork.org/community/leipzig/post/011-bastelrunde-refactoring-bis-der-code-gl%C3%A4nzt)
+- [#010 Bastelrunde - Funksignale abfangen und interpretieren](https://www.thethingsnetwork.org/community/leipzig/post/010-bastelrunde-funksignale-abfangen-und-interpretieren)
+- [#009 Bastelrunde - mit dem Oszillografen](https://www.thethingsnetwork.org/community/leipzig/post/009-bastelrunde-mit-dem-oszillografen)
 <!-- TTN:END -->
 <!--
 http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.thethingsnetwork.org%2Fcommunity%2Fleipzig%2Fposts&in_id_or_class=widget-card-story&max=5&order=document&guid=0
