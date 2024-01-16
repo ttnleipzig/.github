@@ -7,6 +7,7 @@ IoT is our passion. We love to build things and connect them to the Internet. We
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Arduino Projekt Booster](https://www.youtube.com/watch?v=V0zbww-wsuQ)
 <!-- YOUTUBE:END -->
 
 ### 📖 TTN Blog Posts
