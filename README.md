@@ -1,3 +1,4 @@
-# TTN repository infrstracture
+# TTN repository infrastracture
 
-Wan learn more about TTN Leipzig? Go to our profile [README.de](./profile/README.md)!
+Wanna learn more about TTN Leipzig?
+Go to our profile [README.de](./profile/README.md)!
