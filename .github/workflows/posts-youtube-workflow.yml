@@ -17,7 +17,7 @@ jobs:
           commit_message: 'Updated readme with the latest Youtube videos'
           committer_username: André lademann
           committer_email: vergissberlin@googlemail.com
-          comment_tag_name: 'youtube'
+          comment_tag_name: 'YOUTUBE'
           max_post_count: 12
           date_format: 'dd.mm.yyyy'
           readme_path: 'profile/README.md'
