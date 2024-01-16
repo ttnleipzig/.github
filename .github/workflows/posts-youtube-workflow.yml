@@ -18,5 +18,5 @@ jobs:
           committer_username: André lademann
           committer_email: vergissberlin@googlemail.com
           max_post_count: 12
-          date_format: "dd.mm.yyyy"
-          readme_path: "profile/README.md"
+          date_format: 'dd.mm.yyyy'
+          readme_path: 'profile/README.md'
