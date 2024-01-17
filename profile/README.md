@@ -9,6 +9,7 @@
 ### 📺 YouTube
 
 <!-- YOUTUBE:START -->
+- [TTN Meetup Leipzig - #013 Bastelrunde - Arduino über eine Webseite installieren und Konfigurieren](https://www.youtube.com/watch?v=wLhYB0v2J3o)
 - [Arduino Projekt Booster](https://www.youtube.com/watch?v=V0zbww-wsuQ)
 <!-- YOUTUBE:END -->
 
