@@ -9,8 +9,8 @@
 ### 📺 YouTube
 
 <!-- YOUTUBE:START -->
+- [Installiere deine Programme für deine Mikrocontroller über eine Webseite  #esphome #webserial](https://www.youtube.com/watch?v=01wBHqxxWs0)
 - [TTN Meetup Leipzig - #013 Bastelrunde - Arduino über eine Webseite installieren und Konfigurieren](https://www.youtube.com/watch?v=wLhYB0v2J3o)
-- [Arduino Projekt Booster](https://www.youtube.com/watch?v=V0zbww-wsuQ)
 <!-- YOUTUBE:END -->
 
 #### 📖 TTN blog posts
