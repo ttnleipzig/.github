@@ -9,6 +9,7 @@
 ### 📺 YouTube
 
 <!-- YOUTUBE:START -->
+- [Webserial API zum Verändern von Zugangsdaten #arduino #webserial #tips #shorts](https://www.youtube.com/watch?v=oiidBYGdPe0)
 - [Dateien mit Mikrocontrollern schreiben und lesen #shorts](https://www.youtube.com/watch?v=O6R1gKALRPY)
 - [Bastelrunde 014 mit der Web Serial API #webserial #shorts #iot](https://www.youtube.com/watch?v=1vHrkPf3CxY)
 - [Installiere deine Programme für deine Mikrocontroller über eine Webseite  #esphome #webserial](https://www.youtube.com/watch?v=01wBHqxxWs0)
