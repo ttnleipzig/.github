@@ -9,6 +9,7 @@
 ### 📺 YouTube
 
 <!-- YOUTUBE:START -->
+- [Kommunikation zwischen einem Browser und einem Mikrocontroller](https://www.youtube.com/watch?v=s6tejsC2Bcs)
 - [Webserial API zum Verändern von Zugangsdaten #arduino #webserial #tips #shorts](https://www.youtube.com/watch?v=oiidBYGdPe0)
 - [Dateien mit Mikrocontrollern schreiben und lesen #shorts](https://www.youtube.com/watch?v=O6R1gKALRPY)
 - [Bastelrunde 014 mit der Web Serial API #webserial #shorts #iot](https://www.youtube.com/watch?v=1vHrkPf3CxY)
