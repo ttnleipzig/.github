@@ -20,11 +20,11 @@
 #### 📖 TTN blog posts
 
 <!-- TTN:START -->
+- [#019 Bastelrunde - Versionierung auf Edge-Geräten](https://www.thethingsnetwork.org/community/leipzig/post/019-bastelrunde-versionierung-auf-edge-ger%C3%A4ten)
 - [#018 Bastelrunde - Code streicheln bis er glänzt](https://www.thethingsnetwork.org/community/leipzig/post/018-bastelrunde-code-streicheln-bis-er-gl%C3%A4nzt)
 - [#017 Bastelrunde - Mit dem eigenem Protokoll arbeiten](https://www.thethingsnetwork.org/community/leipzig/post/017-bastelrunde-mit-dem-eigenem-protokoll-arbeiten)
 - [#016 Bastelrunde - Konfigurationsdaten mit dem Browser bearbeiten](https://www.thethingsnetwork.org/community/leipzig/post/016-bastelrunde-konfigurationsdaten-mit-dem-browser-bearbeiten)
 - [#015 Bastelrunde - Konfigurationsdateien schreiben und lesen](https://www.thethingsnetwork.org/community/leipzig/post/015-bastelrunde-konfigurationsdateien-schreiben-und-lesen)
-- [#014 Bastelrunde - Wir sprechen seriell](https://www.thethingsnetwork.org/community/leipzig/post/014-bastelrunde-wir-sprechen-seriell)
 <!-- TTN:END -->
 <!--
 http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.thethingsnetwork.org%2Fcommunity%2Fleipzig%2Fposts&in_id_or_class=widget-card-story&max=5&order=document&guid=0
