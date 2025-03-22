@@ -20,11 +20,11 @@
 #### 📖 TTN blog posts
 
 <!-- TTN:START -->
+- [#026 Bastelrunde - Deep Dive](https://www.thethingsnetwork.org/community/leipzig/post/026-bastelrunde-deep-dive)
 - [#025 Bastelrunde - Proof Of Concept](https://www.thethingsnetwork.org/community/leipzig/post/025-bastelrunde-proof-of-concept)
 - [#024 Bastelrunde - Konzept auf dem Prüfstand](https://www.thethingsnetwork.org/community/leipzig/post/024-bastelrunde-konzept-auf-dem-pr%C3%BCfstand)
 - [#023 Bastelrunde - Usability](https://www.thethingsnetwork.org/community/leipzig/post/023-bastelrunde-usability)
 - [#022 Bastelrunde - Die State Machine](https://www.thethingsnetwork.org/community/leipzig/post/022-bastelrunde-die-state-machine)
-- [#021 Bastelrunde - Ein eigener Web Serial Flasher Teil 2](https://www.thethingsnetwork.org/community/leipzig/post/021-bastelrunde-ein-eigener-web-serial-flasher-teil-2)
 <!-- TTN:END -->
 <!--
 http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.thethingsnetwork.org%2Fcommunity%2Fleipzig%2Fposts&in_id_or_class=widget-card-story&max=5&order=document&guid=0
