@@ -62,4 +62,4 @@ We are organizing meetups to discuss the latest developments in the Internet of 
 
 ---
 
-Twitter: https://twitter.com/ttnleipzig | Meetups: https://gettogether.community/ttn-leipzig
+Twitter: https://twitter.com/ttnleipzig | Meetups: https://gettogether.community/ttn-leipzig | Matrix: [#ttn-leipzig:matrix.org](https://matrix.to/#/#ttn-leipzig:matrix.org)
